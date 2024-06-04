@@ -4,6 +4,6 @@
 <br><b></BR>Keywords:</b> MobileNet architecture, Convolutional Neural Network (CNN) algorithm, Web application, Datasets.
 </p>
 <p>
-  In this project, at first food is recognised which has been uploaded and estimated the calories of the which helps the user to maintain a healthy dietary plan.
+  In this project, at first food is recognised which has been uploaded and estimated the calories of the food item ,which helps the user to maintain a healthy dietary plan.
 It have been provided a calorie chart which contains the carbohydrates,fats, vitamins,minerals& protiens percentage in that food. 
 </p>
